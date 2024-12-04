@@ -4985,3 +4985,5 @@ fredhfreitas
 auto-differentiation-dev
 leanug
 Web3ByVirtuAI
+kmcgregr
+kasta-sta

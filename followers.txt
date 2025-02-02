@@ -6403,3 +6403,4 @@ maatthias
 Arifuzzaman-Rakib
 egarnaga
 GoldDevs
+vector-man

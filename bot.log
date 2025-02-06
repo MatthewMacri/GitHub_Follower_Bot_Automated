@@ -24779,3 +24779,227 @@ Following users from your follower list is done! Total followers fetched: 5934, 
 2025-02-06 08:55:50,553 - INFO - Follower counter updated: 6462
 2025-02-06 08:55:50,553 - INFO - 
 Following users from your follower list is done! Total followers fetched: 2400, Total followers followed: 6462
+2025-02-06 09:11:03,155 - INFO - Hi! I am GitHub Follower Bot.
+2025-02-06 09:11:03,155 - INFO - Letting you follow all your followers!
+2025-02-06 09:11:03,155 - INFO - Starting to fetch your follower lists...
+
+2025-02-06 09:11:03,158 - INFO - Loaded 6462 already followed users.
+2025-02-06 09:11:03,158 - INFO - Processing all followers without resume.
+2025-02-06 09:11:03,158 - INFO - Starting from page: 1
+2025-02-06 09:11:03,158 - INFO - Current follower counter: 6462
+2025-02-06 09:11:03,267 - INFO - Rate Limit - Remaining: 4804, Reset at: 2025-02-06 09:15:10
+2025-02-06 09:11:03,268 - INFO - Fetching followers from: https://api.github.com/users/officialcodevoyage/followers?per_page=100&page=1
+2025-02-06 09:11:03,460 - DEBUG - Number of followers fetched: 100
+2025-02-06 09:11:03,460 - INFO - Fetched 100 followers on page 1.
+2025-02-06 09:11:03,460 - INFO - Sleeping for 5 seconds before following users.
+2025-02-06 09:11:08,465 - DEBUG - Already followed user: copyleftdev. Skipping.
+2025-02-06 09:11:08,465 - DEBUG - Already followed user: kiirpi. Skipping.
+2025-02-06 09:11:08,465 - DEBUG - Already followed user: Arcko. Skipping.
+2025-02-06 09:11:08,465 - DEBUG - Already followed user: berlinbrown. Skipping.
+2025-02-06 09:11:08,465 - DEBUG - Already followed user: andyfam. Skipping.
+2025-02-06 09:11:08,465 - DEBUG - Already followed user: dnadlinger. Skipping.
+2025-02-06 09:11:08,465 - DEBUG - Already followed user: 20after4. Skipping.
+2025-02-06 09:11:08,465 - DEBUG - Already followed user: Sky. Skipping.
+2025-02-06 09:11:08,465 - DEBUG - Already followed user: mRemAiello. Skipping.
+2025-02-06 09:11:08,465 - DEBUG - Already followed user: vmlemon. Skipping.
+2025-02-06 09:11:08,465 - DEBUG - Already followed user: jfnixon. Skipping.
+2025-02-06 09:11:08,465 - DEBUG - Already followed user: WildGenie. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: niltonheck. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: DiWolf. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: pastuxso. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: Siim. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: paulorv. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: linces. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: margani. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: Tomleejr. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: iNoles. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: fivetop. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: brampitoyo. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: osde8info. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: vhocker. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: rok. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: bpedro. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: ajosephau. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: trcjr. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: heytrav. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: jmlweb. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: kode4food. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: esin. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: markuszeller. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: drudge. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: tenetko. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: relson. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: deepneko. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: g7. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: yoosofan. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: graysonarts. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: sergiopacho. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: klimchuk. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: cbuck. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: markosankovic. Skipping.
+2025-02-06 09:11:08,466 - DEBUG - Already followed user: projectnoa. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: joelmandell. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: jumsay. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: stasal. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: Neangsopheap. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: georgewinser. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: mmmattos. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: ghg. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: rtibuludji. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: kadridinar. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: boberetezeke. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: tuxcanfly. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: zhenghao1. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: dreamsdesign. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: Levi-zz. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: andremoreno. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: mariusrugan. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: prufrock. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: orest-xx. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: mehranzand. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: hectormenendez. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: CristianDeluxe. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: keuch2. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: brettkromkamp. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: brenttaylor. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: jmonfu. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: ikrabbe. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: brase. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: dunkelbraun. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: loktar00. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: pharmineous. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: dalraf. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: sskibbe. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: cdpapoulias. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: aldorr. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: ebadiere. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: palonza. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: webjunkie01. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: countersparks. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: MadMorris. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: zeloras. Skipping.
+2025-02-06 09:11:08,467 - DEBUG - Already followed user: nitipit. Skipping.
+2025-02-06 09:11:08,468 - DEBUG - Already followed user: victorfeight. Skipping.
+2025-02-06 09:11:08,468 - DEBUG - Already followed user: alperguclu. Skipping.
+2025-02-06 09:11:08,468 - DEBUG - Already followed user: ManojKamat. Skipping.
+2025-02-06 09:11:08,468 - DEBUG - Already followed user: lunysska. Skipping.
+2025-02-06 09:11:08,468 - DEBUG - Already followed user: vs4vijay. Skipping.
+2025-02-06 09:11:08,468 - DEBUG - Already followed user: anthonyroussel. Skipping.
+2025-02-06 09:11:08,468 - DEBUG - Already followed user: ematta. Skipping.
+2025-02-06 09:11:08,468 - DEBUG - Already followed user: mastermt. Skipping.
+2025-02-06 09:11:08,468 - DEBUG - Already followed user: Prasadnair. Skipping.
+2025-02-06 09:11:08,468 - DEBUG - Already followed user: phaniraghav. Skipping.
+2025-02-06 09:11:08,468 - DEBUG - Already followed user: evangipson. Skipping.
+2025-02-06 09:11:08,468 - DEBUG - Already followed user: neskire. Skipping.
+2025-02-06 09:11:08,468 - DEBUG - Already followed user: osiris43. Skipping.
+2025-02-06 09:11:11,610 - INFO - Rate Limit - Remaining: 4803, Reset at: 2025-02-06 09:15:10
+2025-02-06 09:11:11,611 - INFO - Fetching followers from: https://api.github.com/users/officialcodevoyage/followers?per_page=100&page=2
+2025-02-06 09:11:17,390 - DEBUG - Number of followers fetched: 100
+2025-02-06 09:11:17,390 - INFO - Fetched 100 followers on page 2.
+2025-02-06 09:11:17,390 - INFO - Sleeping for 5 seconds before following users.
+2025-02-06 09:11:22,395 - DEBUG - Already followed user: BuckRogers1965. Skipping.
+2025-02-06 09:11:22,395 - DEBUG - Already followed user: sscotti. Skipping.
+2025-02-06 09:11:22,395 - DEBUG - Already followed user: kmcgregr. Skipping.
+2025-02-06 09:11:22,395 - DEBUG - Already followed user: dadachi. Skipping.
+2025-02-06 09:11:22,395 - DEBUG - Already followed user: plachenko. Skipping.
+2025-02-06 09:11:22,395 - DEBUG - Already followed user: ericbutera. Skipping.
+2025-02-06 09:11:22,395 - DEBUG - Already followed user: mxmanghi. Skipping.
+2025-02-06 09:11:22,395 - DEBUG - Already followed user: ebragaparah. Skipping.
+2025-02-06 09:11:22,395 - DEBUG - Already followed user: tingham. Skipping.
+2025-02-06 09:11:22,395 - DEBUG - Already followed user: andrewgbliss. Skipping.
+2025-02-06 09:11:22,395 - DEBUG - Already followed user: passkey. Skipping.
+2025-02-06 09:11:22,395 - DEBUG - Already followed user: MaxSmile. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: wenceslau. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: mbuba. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: johndpope. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: metehan777. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: sanspa. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: clsource. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: runtime. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: amitflex2010. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: yaman. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: nijahdon. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: nidhis. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: byteface. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: ashish64. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: FJRuiz. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: Javaid. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: sirmmo. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: carlossequeira. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: denvergeeks. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: JamesWang. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: lvisb. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: hernzum. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: jonfres. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: Emka877. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: ldbaldwin. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: jmonasterio. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: alegauss. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: mgarnett. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: yaroslav-ilin. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: bogobil. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: vins13pattar. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: diegus22. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: sandorfodor. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: gidsola. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: DwayneSamuels. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: diegorusso. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: ashbel. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: msoe. Skipping.
+2025-02-06 09:11:22,396 - DEBUG - Already followed user: temlekur. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: malweka. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: mrs83. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: kexi. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: hkandie. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: hpmaxi. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: qoyyim. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: jhenkins. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: yibie. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: maatthias. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: rdonmez. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: AlexSkrypnyk. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: sergiomtzlosa. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: sunnys. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: mrheat. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: msmakhlouf. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: mtmk. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: paul-at-nangalan. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: murrayf. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: thorstensson. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: mconyango. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: hunde. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: edgarleal. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: hlindquist. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: lesliesam. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: fujikawahiroaki. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: jeffersongoncalves. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: shsingh. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: djstearns. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: panchosoft. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: glennsdev. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: tdcook. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: Boyquotes. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: berislavbabic. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: websplee. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: tomtapia. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: hasanmova. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: datstma. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: JohnAnthony. Skipping.
+2025-02-06 09:11:22,397 - DEBUG - Already followed user: fredhfreitas. Skipping.
+2025-02-06 09:11:22,398 - DEBUG - Already followed user: mamby. Skipping.
+2025-02-06 09:11:22,398 - DEBUG - Already followed user: tomhussey. Skipping.
+2025-02-06 09:11:22,398 - DEBUG - Already followed user: jamaluddinrumi. Skipping.
+2025-02-06 09:11:22,398 - DEBUG - Already followed user: byrdnuge. Skipping.
+2025-02-06 09:11:22,398 - DEBUG - Already followed user: nihat. Skipping.
+2025-02-06 09:11:22,398 - DEBUG - Already followed user: airbuzz. Skipping.
+2025-02-06 09:11:22,398 - DEBUG - Already followed user: Tarabass. Skipping.
+2025-02-06 09:11:22,398 - DEBUG - Already followed user: beniaminov. Skipping.
+2025-02-06 09:11:22,398 - DEBUG - Already followed user: TeamSPoon. Skipping.
+2025-02-06 09:11:22,398 - DEBUG - Already followed user: dannybisby. Skipping.
+2025-02-06 09:11:22,398 - DEBUG - Already followed user: jennycalala. Skipping.
+2025-02-06 09:11:33,446 - ERROR - Failed to check rate limit: 504 Server Error: Gateway Timeout for url: https://api.github.com/rate_limit
+2025-02-06 09:11:33,447 - INFO - Fetching followers from: https://api.github.com/users/officialcodevoyage/followers?per_page=100&page=3
+2025-02-06 09:11:44,497 - ERROR - HTTP error occurred while fetching followers: 504 Server Error: Gateway Timeout for url: https://api.github.com/users/officialcodevoyage/followers?per_page=100&page=3
+2025-02-06 09:11:44,497 - INFO - Follower counter updated: 6462
+2025-02-06 09:11:44,497 - INFO - 
+Following users from your follower list is done! Total followers fetched: 200, Total followers followed: 6462

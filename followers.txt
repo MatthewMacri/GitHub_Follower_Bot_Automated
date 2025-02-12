@@ -6558,3 +6558,5 @@ pro-soft-dev
 EnverJ
 oseyban
 zinkxx
+ShaheenJawadi
+NjeriKiarie

@@ -7421,3 +7421,5 @@ vanillabrand
 Zeroskip25
 funczero
 CodeEvolv
+neural-loop
+10senura

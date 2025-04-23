@@ -7661,3 +7661,5 @@ cfengineers
 ricardoalfaro
 mfontosco
 ZakariaAitAli
+fmazzant
+LeonardoHSSoares

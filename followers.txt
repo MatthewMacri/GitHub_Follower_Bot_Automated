@@ -7893,3 +7893,5 @@ max-solo23
 serkantolga
 gnaservicesinc
 mosesedges
+louresb
+dantelabs-bdm

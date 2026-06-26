@@ -46130,3 +46130,17 @@ Following users from your follower list is done! Total followers fetched: 0, Tot
 2026-06-26 18:22:37,452 - INFO - Follower counter updated: 9620
 2026-06-26 18:22:37,452 - INFO - 
 Following users from your follower list is done! Total followers fetched: 0, Total followers followed: 9620
+2026-06-26 20:15:02,868 - INFO - Hi! I am GitHub Follower Bot.
+2026-06-26 20:15:02,868 - INFO - Letting you follow all your followers!
+2026-06-26 20:15:02,868 - INFO - Starting to fetch your follower lists...
+
+2026-06-26 20:15:02,871 - INFO - Loaded 9620 already followed users.
+2026-06-26 20:15:02,871 - INFO - Processing all followers without resume.
+2026-06-26 20:15:02,871 - INFO - Starting from page: 1
+2026-06-26 20:15:02,871 - INFO - Current follower counter: 9620
+2026-06-26 20:15:02,992 - ERROR - Failed to check rate limit: 401 Client Error: Unauthorized for url: https://api.github.com/rate_limit
+2026-06-26 20:15:02,993 - INFO - Fetching followers from: https://api.github.com/users/officialcodevoyage/followers?per_page=100&page=1
+2026-06-26 20:15:03,097 - ERROR - HTTP error occurred while fetching followers: 401 Client Error: Unauthorized for url: https://api.github.com/users/officialcodevoyage/followers?per_page=100&page=1
+2026-06-26 20:15:03,097 - INFO - Follower counter updated: 9620
+2026-06-26 20:15:03,097 - INFO - 
+Following users from your follower list is done! Total followers fetched: 0, Total followers followed: 9620
